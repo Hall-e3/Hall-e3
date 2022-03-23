@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I am Hall Enoch Asanda! 👋
+#### JavaScript Enthusiast
 
-<!--
-**Hall-e3/Hall-e3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hall Enoch Asanda is my name. A Software development enthusiast.Junior ReactJS (Frontend) and NodeJS (Backend) developer. I am a competent software developer with 3 years of professional experience in developing web apps using ReactJs as a front-end framework for JavaScript, CSS-styling library such as bootstrap, Tailwind css and Material-ui and NodeJS(express) as the back-end framework for JavaScript, mobile applications using react-native a JavaScript framework for mobile development and flutter a framework of dart programming language used also for mobile development.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also well equipped with the back-end skills such as node.js and working with MongoDB database and GitHub. My strongest skills fall both in web and mobile application development. I also have a strong foundation in Data Structures and math skills plus logical abilities. Very down to earth, willing , flexible and adaptable to learning new skills and tasks. Knowledgeable Front End Developer adapt at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Fully proficient in JavaScript.
+
+## Skills and Experience: 
+* ReactJS
+* NodeJS
+* React-Native
+* JS / HTML / CSS
+
+
+
+
+<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hall-e3&show_icons=true&theme=radical"/>
+<img align="Left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hall-e3&layout=compact"/>
+
+
