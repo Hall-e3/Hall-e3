@@ -39,4 +39,4 @@ I am also well equipped with the back-end skills such as node.js and working wit
  
 </div>
 
-<a href="https://app.daily.dev/Hall_me"><img src="https://api.daily.dev/devcards/24c610c8e3b14fc6ae8f1b5b87498df2.png?r=80g" width="400" alt="Enoch Asanda Hall's Dev Card"/></a>
+
