@@ -12,7 +12,7 @@ I am also well equipped with the back-end skills such as node.js and working wit
 * React-Native
 * JS / HTML / CSS
 ##  GitHub Stats
-![Hall Enoch Asanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hall-e3&show_icons=true&theme=transparent)
+![Hall Enoch Asanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hall-e3&count_private=true)
 
 
 
