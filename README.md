@@ -11,16 +11,8 @@ I am also well equipped with the back-end skills such as node.js and working wit
 * NodeJS
 * React-Native
 * JS / HTML / CSS
-
-
-
-
-<img align="Left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Hall-e3&show_icons=true&theme=radical"/>
-<img align="Left" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hall-e3&layout=compact"/>
-
-
-
- ##
+##GitHub Stats
+![Hall Enoch Asanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hall-e3&show_icons=true&theme=transparent)
 
 
 
