@@ -14,5 +14,5 @@ I am also well equipped with the back-end skills such as node.js and working wit
 * JS / HTML / CSS
 
 
-
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%20-blue)](mailto:your-email@example.com)
 
