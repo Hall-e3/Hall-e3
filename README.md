@@ -6,13 +6,21 @@ Hall Enoch Asanda is my name. A Software developer enthusiast.Junior ReactJS (Fr
 
 I am also well equipped with the back-end skills such as node.js and working with MongoDB database and GitHub. My strongest skills fall both in web and mobile application development. I also have a strong foundation in Data Structures and math skills plus logical abilities. Very down to earth, willing , flexible and adaptable to learning new skills and tasks. Knowledgeable Front End Developer adapt at creating successful websites that meet customer needs. Produce and improve designs for usability and functionality. Fully proficient in React.js.
 
-### Skills and Experience: 
-* ReactJS
-* NodeJS
-* React-Native
-* Currently learning Flutter
+
+## Support Me
+I want to learn more and pick up new skills and knowledge from your companies :pleading_face:
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-%20-blue)](mailto:hallenochasanda@gmail.com)
+
+[![Portifolio](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%20-orange)](https://www.buymeacoffee.com/your-username)
+
+### Skills and Experience:
+🏆 ReactJS  
+🌸 React-Native 
+✅ NodeJS 
+⏳ Currently learning Flutter
 * JS / HTML / CSS
 
 
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-%20-blue)](mailto:hallenochasanda@gmail.com)
+### GitHub Stats
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
