@@ -8,7 +8,7 @@ I am also well equipped with the back-end skills such as node.js and working wit
 
 
 
-[![Portifolio](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%20-orange)](https://www.buymeacoffee.com/your-username)
+[![Portifolio](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%20-orange)](portifolio)
 
 ### Skills and Experience:
 * ReactJS  
