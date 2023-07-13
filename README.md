@@ -14,13 +14,10 @@ I want to learn more and pick up new skills and knowledge from your companies :p
 [![Portifolio](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%20-orange)](https://www.buymeacoffee.com/your-username)
 
 ### Skills and Experience:
+
 🏆 ReactJS  
 🌸 React-Native 
 ✅ NodeJS 
 ⏳ Currently learning Flutter
 * JS / HTML / CSS
 
-
-### GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
