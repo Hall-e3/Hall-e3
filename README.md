@@ -1,7 +1,7 @@
 ## Hi there, I am Hall Enoch Asanda! 👋
 #### Software Developer
 
-Hall Enoch Asanda is my name. A Software developer enthusiast Junior ReactJS (Frontend) and NodeJS (Backend) developer. I am a competent software developer with professional experience in developing web apps using ReactJs as a front-end library for JavaScript, CSS-styling libraries such as Bootstrap, Tailwind CSS, Material-UI, and NodeJS (Express) as the back-end framework for JavaScript, mobile applications using React-Native, a JavaScript library for mobile development, and Flutter, a framework of the Dart programming language used also for mobile development.
+Hall Enoch Asanda is my name. A Software developer enthusiast Junior ReactJS (Frontend) and Django && NodeJS (Backend) developer. I am a competent software developer with professional experience in developing web apps using ReactJs as a front-end library for JavaScript, CSS-styling libraries such as Bootstrap, Tailwind CSS, Material-UI, and NodeJS (Express) as the back-end framework for JavaScript, mobile applications using React-Native, a JavaScript library for mobile development, and Flutter, a framework of the Dart programming language used also for mobile development.
 
 
 I am also well equipped with back-end skills such as Node.js and working with the MongoDB database and GitHub. My strongest skills lie both in web and mobile application development. I also have a strong foundation in Data Structures and math skills plus logical abilities. Very down-to-earth, willing, flexible, and adaptable to learning new skills and tasks. A knowledgeable front-end Developer adapts to creating successful websites that meet customer needs. Produce and improve designs for usability and functionality. Fully proficient in React.js.
@@ -9,7 +9,7 @@ I am also well equipped with back-end skills such as Node.js and working with th
 #### Skills and Experience:
 * ReactJS  
 * React-Native 
-* NodeJS 
+* Django/NodeJS 
 * Flutter
 * JS / HTML
 
