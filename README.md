@@ -25,3 +25,5 @@
 
 I want to learn more and pick up new skills and knowledge from your companies. pleading_face:
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-%20-blue)](mailto:hallenochasanda@gmail.com)
+
+<a href="https://app.daily.dev/hall_me"><img src="https://api.daily.dev/devcards/24c610c8e3b14fc6ae8f1b5b87498df2.png?r=chy" width="400" alt="Enoch Asanda Hall's Dev Card"/></a>
